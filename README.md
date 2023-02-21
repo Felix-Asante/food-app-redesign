@@ -2,7 +2,7 @@
 
 Food app redesign. This is a React and vite project
 
-<img src='./food-app.png' />
+<img src='./app.png' />
 First, install the project node_modules
 
 ```bash
